@@ -1,6 +1,10 @@
 # PDF Audiobook Reader Bot
 
-A Telegram bot that converts PDF documents to audio files using Text-to-Speech technology.
+<div align="center">
+  <img src="assets/bot-logo.png" alt="PDF Audiobook Reader Bot Logo" width="200"/>
+  
+  <p><em>A Telegram bot that converts PDF documents to audio files using Text-to-Speech technology.</em></p>
+</div>
 
 ## Features
 
